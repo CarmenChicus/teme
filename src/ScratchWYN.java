@@ -6,5 +6,6 @@ public class ScratchWYN {
         System.out.println("Care e numele tau?");
        String name =  scanner.nextLine();
         System.out.println("Hello "  +  name);
+        //modificare
     }
 }
